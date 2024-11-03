@@ -1,0 +1,40 @@
+/* Custom Styles */
+
+/* General */
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+/* Navbar */
+.navbar-nav .nav-link {
+  padding: 10px 15px;
+  font-size: 1.2rem;
+}
+
+.nav-link:hover {
+  background-color: #0056b3;
+  border-radius: 5px;
+}
+
+/* Projects Section */
+.card {
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+}
